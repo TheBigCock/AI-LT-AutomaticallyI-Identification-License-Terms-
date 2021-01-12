@@ -1,0 +1,25 @@
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
+Licensor hereby grants to any person obtaining a copy of the Original Work ("You") a world-wide, royalty-free, non-exclusive, perpetual, non-sublicenseable license to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof.
+All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met.
+This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+You may Distribute verbatim copies of the Source form of the Standard Version of this Package in any medium without restriction.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided.
+The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license under intellectual property rights (other than patent or trademark) Licensable by Initial Developer, to use, reproduce, modify, display, perform, sublicense and distribute the Original Software (or portions thereof), with or without Modifications, and/or as part of a Larger Work; 
+The Licensee is authorized to use the Software, without any limitation as to its fields of application, with it being hereinafter specified that this comprises permanent or temporary reproduction of all or part of the Software by any or all means and in any or all form.
+Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor.
+Subject to the terms and conditions of this License, the Author hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work.
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted.
+Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor.
+Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, Distribute and sublicense the Contribution of such Contributor, if any, and such Derivative Works.
+The Licensor hereby grants You a world-wide, royalty-free, non-exclusive, sublicensable licence to do the following, for the duration of copyright vested in the Original Work: reproduce the Work.
+You may copy and distribute verbatim copies of the Program's source code as you receive it, in any medium.
+You may copy and distribute verbatim copies of the Library's complete source code as you receive it, in any medium.
+You may distribute a complete, unmodified copy of the Work as you received it. 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce.
+Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+To reproduce the Original Work in copies, either alone or as part of a collective work;
+this Distribution may be modified and the original version and modified versions may be copied.
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely.
+Each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or distribute its Contribution, with modification or not.

@@ -1,0 +1,26 @@
+Permission to use, copy, modify, and/or distribute this software for any purpose.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions below are met. 
+To use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works.
+The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work. 
+To reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+The terms of this license apply to the use and Distribution of the Standard or Modified Versions as included in the aggregation.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided.
+The Modifications that You create or to which You contribute are governed by the terms of this License. You represent that You believe Your Modifications are Your original creation(s) and/or You have sufficient rights to grant the rights conveyed by this License.
+The Licensee is further authorized to distribute copies of the modified or unmodified Software to third parties according to the terms and conditions set forth hereinafter.
+If any, and such derivative works, in source code and object code form.
+You may otherwise modify Your copy of this Work (excluding the Articles) in any way to create a Derivative Work.
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee.
+Distribute the Work or copies.
+You may modify your copy or copies of the Program or any portion of it, thus forming a work based on the Program, and copy and distribute such modifications or work.
+You may modify your copy or copies of the Library or any portion of it, thus forming a work based on the Library, and copy and distribute such modifications or work.
+If you are not the Current Maintainer of the Work, you may modify your copy of the Work, thus creating a Derived Work based on the Work. 
+If you are the Current Maintainer of the Work, you may, without restriction, modify the Work, thus creating a Derived Work. 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+Distribute the Modifications created by such Contributor (or portions thereof) either on an unmodified basis, with other Modifications, as Covered Code and/or as part of a Larger Work;
+under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit its Contributions, either on an unmodified basis, with Modifications, or as part of a Larger Work; 
+Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+You may license other files that are entirely your own work and do not contain code from the software under any terms you choose.
+To translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works ("Derivative Works") based upon the Original Work;
+Redistribution and use in source and binary forms, with or without modification.
+This Distribution may be modified and the original version and modified versions may be distributed. 
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely.

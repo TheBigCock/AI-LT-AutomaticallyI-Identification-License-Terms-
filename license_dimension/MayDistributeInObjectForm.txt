@@ -1,0 +1,22 @@
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions below are met. 
+You may convey a covered work in object code form.
+You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form,
+such verbatim copies may or may not include a Compiled form of the Package.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided.
+Any Covered Software that You distribute or otherwise make available in Executable form must also be made available in Source Code form.
+The Licensee is authorized to distribute true copies of the Software in Source Code or Object Code form.
+A Contributor may choose to distribute the Program in object code form under its own license agreement.
+You may use the standard version of the Source Code or Executable Files in Your own applications.
+If any, and such derivative works, in source code and object code form.
+The Licensor may provide the Work  as Executable Code. 
+ You may copy and distribute the Program in object code or executable form.
+If any, and such derivative works in  object code form.
+You may copy and distribute the Library (or a portion or derivative of it, under Section 2) in object code or executable form.
+Either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available;
+If You distribute Covered Software in Executable Form.
+If you distribute any portion of the software in compiled or object code form.
+For any file you distribute that contains code from the software (in source code or binary format).
+ Licensor agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work.
+Redistribution and use in binary forms. 
+You may distribute the Software in any medium with or without modification, whether in source or executable forms.
+The distribution of the Software or Modifications in compiled or object code format may be under a license of Your choice, provided that You are in compliance with the terms of this Agreement. 

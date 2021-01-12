@@ -1,0 +1,10 @@
+Requiring that modified versions of such material be marked in reasonable ways as different from the original version; 
+You may Distribute your Modified Version as Source (either gratis or for a Distributor Fee, and with or without a Compiled form of the Modified Version) provided that you clearly document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules.
+The Licensee must cause any Derivative Work to carry prominent notices stating that the Work has been modified and the date of modification.
+In addition, each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution.
+If you modify libpng you may insert additional notices immediately following this sentence.
+Every component of the Derived Work contains prominent notices detailing the nature of the changes to that component.
+ If You created one or more Modification(s) You may add your name as a Contributor to the notice described in Exhibit A. 
+You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.
+If modified, the source code, documentation, and user run-time elements should be clearly labeled by placing an identifier of origin (such as a name, initial, or other tag) after the version number;
+ If any files are modified, you must cause the modified files to carry prominent notices stating that you changed the files and the date of any change.

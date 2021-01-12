@@ -1,0 +1,15 @@
+Keep intact all notices of the absence of any warranty; 
+Must retain the following disclaimer.
+You agree not to remove associated disclaimers that may appear in the Source Code or Executable Files.
+The Licensee shall keep all notices that refer to the Licence and to the disclaimer of warranties. 
+You conspicuously and appropriately publish on each copy  disclaimer of warranty; 
+If the modified program normally reads commands interactively when run, you must cause it, when started running for such interactive use in the most ordinary way, to print or display an announcement including a notice that there is no warranty£»
+keep intact to the absence of any warranty.
+You must duplicate the notice in Exhibit A in each file of the Source Code. If it is not possible to put such notice in a particular Source Code file due to its structure, then You must include such notice in a location (such as a relevant directory) where a user would be likely to look for such a notice.
+You may not remove or alter the substance of any license notices (including copyright notices, patent notices, disclaimers of warranty, or limitations of liability) contained within the Source Code Form of the Covered Software.
+Redistributions of source code must retain  the following disclaimer.
+All redistributions of source code must retain this list of conditions and the disclaimer listed in this license;
+All redistributions in binary form must reproduce the disclaimer listed in this license in the documentation and/or other materials provided with the distribution;
+Redistributions in source code must retain the following disclaimer.
+Redistributions in binary form must reproduce the following disclaimer in the documentation and/or other materials provided with the distribution.
+You provide recipients with a copy of this License and retain disclaimer statements in the Software.

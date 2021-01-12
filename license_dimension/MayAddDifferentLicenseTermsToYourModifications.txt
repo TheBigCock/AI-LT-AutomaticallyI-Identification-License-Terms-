@@ -1,0 +1,3 @@
+"Additional permissions" are terms that supplement the terms of this License by making exceptions from one or more of its conditions. Additional permissions that are applicable to the entire Program shall be treated as though they were included in this License, to the extent that they are valid under applicable law.
+You may place additional permissions on material, added by you to a covered work, for which you have or can give appropriate copyright permission.
+You may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications.

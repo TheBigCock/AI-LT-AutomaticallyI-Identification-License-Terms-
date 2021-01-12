@@ -1,0 +1,23 @@
+Redistributions of the Original Work must reproduce all copyright notices in the Original Work as furnished by the Licensor, both in the Original Work itself and in any documentation and/or other materials provided with the distribution of the Original Work in executable form.
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright.
+Must retain the above copyright notice.
+You may not remove or alter any copyright.
+Contributors may not remove or alter any copyright notices contained within the Program.
+The author retains copyright to any such Articles.
+Provided that the above copyright notice and this permission notice appear in all copies.
+The Licensee shall keep intact all copyright.
+You conspicuously and appropriately publish on each copy an appropriate copyright notice.
+If the modified program normally reads commands interactively when run, you must cause it, when started running for such interactive use in the most ordinary way, to print or display an announcement including an appropriate copyright notice .
+You conspicuously and appropriately publish on each copy an appropriate copyright notice; 
+When the Program is made available in source code form a copy of this Agreement must be included with each copy of the Program.
+The above copyright notice and this permission notice (including the next paragraph) shall be included in all copies or substantial portions of the Software.
+You may not remove or alter the substance of any license notices (including copyright notices, patent notices, disclaimers of warranty, or limitations of liability) contained within the Source Code Form of the Covered Software.
+If you distribute any portion of the software, you must retain all copyright.
+You must retain, in the Source Code of any Derivative Works that You create, all copyrigh. 
+Redistributions of source code must retain the above copyright notice.
+All redistributions of source code must retain the above copyright notice.
+Any documentation included with all redistributions must include the following acknowledgement: "This product includes software developed by the Indiana University Extreme! Lab. 
+Redistributions in source code must retain the above copyright notice.
+Redistributions in binary form must reproduce the above copyright notice.
+you provide retain copyright  in the Software.
+In any copy of the Software or in any Modification you create, You must retain and reproduce, any and all copyright that are included in the Software in the same form as they appear in the Software. 

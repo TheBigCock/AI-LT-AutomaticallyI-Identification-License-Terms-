@@ -1,0 +1,10 @@
+May be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor.
+Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+Neither the name of Caldera International, Inc. nor the names of other contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+You agree not to advertise or in any way imply that this Work is a product of Your own.the name of a Copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
+Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior permission of the Licensor. 
+Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+no permission is granted to distribute, publicly display, or publicly perform modifications to the Distribution made using proprietary materials that cannot be released in source format under conditions of this license;
+The name of VOSTROM may not be used in advertising or publicity pertaining to Distribution of the software without specific, prior written permission.
+Products derived from this software may not use "Indiana Univeristy" name nor may "Indiana Univeristy" appear in their name, without prior written permission of the Indiana University. 
+The name Zope Corporation (tm) must not be used to endorse or promote products derived from this software without prior written permission from Zope Corporation.

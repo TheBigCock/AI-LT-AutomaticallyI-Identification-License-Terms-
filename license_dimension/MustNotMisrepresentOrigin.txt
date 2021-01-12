@@ -1,0 +1,18 @@
+Prohibiting misrepresentation of the origin of that material.
+You agree not to use the Work for illegal, immoral or improper purposes, or on pages containing illegal, immoral or improper material. The Work is subject to applicable export laws. You agree to comply with all such laws and regulations that may apply to the Work after Your receipt of the Work.
+You may use the Executable Files and Source Code pursuant to this License but you may not repost or republish or otherwise distribute or make available the Articles, without the prior written consent of the Author.
+Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its use are covered by this License.
+The origin of this source code must not be misrepresented.
+Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+The conditions above are not intended to prohibit, and hence do not apply to, the modification, by any method, of any component so that it becomes identical to an updated version of that component of the Work as it is distributed.
+The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+
+
+
+
+
+
+
+
+
+

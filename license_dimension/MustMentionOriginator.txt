@@ -1,0 +1,5 @@
+Each time the resulting executable program or a program dependent thereon is launched, a prominent display (e.g., splash screen or banner text) of the Author's attribution information, which includes:(a) Name ("AUTHOR"),(b) Professional identification ("PROFESSIONAL IDENTIFICATION"), and(c) URL ("URL").
+Each Contributor must include the following in a conspicuous location in the Program: Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
+ You must include a prominent statement that the Modification is derived, directly or indirectly, from Original Code provided by the Initial Developer and including the name of the Initial Developer in (a) the Source Code, and (b) in any notice in an Executable version or related documentation in which You describe the origin or ownership of the Covered Code.
+If modified, the source code, documentation, and user run-time elements should be clearly labeled by placing an identifier of origin (such as a name, initial, or other tag) after the version number;
+Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.

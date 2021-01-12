@@ -1,0 +1,23 @@
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions below are met. 
+The term "Source Code" means the preferred form of the Original Work for making modifications to it and all available documentation describing how to access and modify the Original Work. 
+You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice;
+You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided.
+Any Covered Software that You distribute or otherwise make available in Executable form must also be made available in Source Code form.
+The Licensee is authorized to distribute true copies of the Software in Source Code or Object Code form.
+When the Program is made available in source code form.
+You may use the standard version of the Source Code or Executable Files in Your own applications.
+If any, and such derivative works, in source code and object code form.
+The Licensor may provide the Work either in its Source Code form. 
+The source code for a work means the preferred form of the work for making modifications to it. 
+If any, and such derivative works, in source code.
+"Source code" for a work means the preferred form of the work for making modifications to it. 
+You distribute the Derived Work: a complete, unmodified copy of the Work; 
+Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License.
+All distribution of Covered Software in Source Code Form.
+ If you distribute any portion of the software in source code form.
+For any file you distribute that contains code from the software (in source code or binary format).
+The term "Source Code" means the preferred form of the Original Work for making modifications to it .
+Redistribution and use in source forms.
+You may distribute the Software in any medium with or without modification, whether in source.
+For the Software or any Modification You distribute in source code format.

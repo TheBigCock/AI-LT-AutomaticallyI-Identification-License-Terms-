@@ -1,0 +1,12 @@
+The work must carry prominent notices stating that you modified it, and giving a relevant date.
+You must cause any modified files to carry prominent notices stating that You changed the files;  
+You may otherwise modify Your copy of this Work (excluding the Articles) in any way to create a Derivative Work, provided that You insert a prominent notice in each changed file stating how, when and where You changed that file.
+The Licensee must cause any Derivative Work to carry prominent notices stating that the Work has been modified and the date of modification.
+You must cause the modified files to carry prominent notices stating that you changed the files and the date of any change.
+Each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution.
+You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
+You must cause all Covered Code to which You contribute to contain a file documenting the changes You made to create that Covered Code and the date of any change. 
+You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.
+If modified, the source code, documentation, and user run-time elements should be clearly labeled by placing an identifier of origin (such as a name, initial, or other tag) after the version number;
+Notice of any changes or modifications to the files, including the date changes were made. 
+ If any files are modified, you must cause the modified files to carry prominent notices stating that you changed the files and the date of any change.

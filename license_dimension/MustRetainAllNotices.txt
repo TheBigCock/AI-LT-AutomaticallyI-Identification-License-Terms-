@@ -1,0 +1,24 @@
+Redistributions of the Original Work must reproduce all copyright notices in the Original Work as furnished by the Licensor, both in the Original Work itself and in any documentation and/or other materials provided with the distribution of the Original Work in executable form.
+keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code; and give all recipients a copy of this License along with the Program.
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; 
+Must retain the above copyright notice, this list of conditions and the following disclaimer.
+Must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+You may not remove or alter any notices of licensing or any descriptive text giving attribution to any Contributor or the Initial Developer.
+The Licensee expressly undertakes:1. not to remove, or modify, in any manner, the intellectual property notices attached to the Software; 2. to reproduce said notices, in an identical manner, in the copies of the Software modified or not.
+You agree not to remove any of the original copyright, patent, trademark, and attribution notices and associated disclaimers that may appear in the Source Code or Executable Files.
+Provided that the above copyright notice and this permission notice appear in all copies.
+The Licensee shall keep intact all copyright, patent or trademarks notices and all notices that refer to the Licence and to the disclaimer of warranties. 
+Provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranty; 
+This Copyright notice may not be removed or altered from any source or altered source distribution.
+You must duplicate the notice in Exhibit A in each file of the Source Code. If it is not possible to put such notice in a particular Source Code file due to its structure, then You must include such notice in a location (such as a relevant directory) where a user would be likely to look for such a notice.
+You may not remove or alter the substance of any license notices (including copyright notices, patent notices, disclaimers of warranty, or limitations of liability) contained within the Source Code Form of the Covered Software.
+If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
+You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent, or trademark notices from the Source Code of the Original Work, as well as any notices of licensing and any descriptive text identified therein as an "Attribution Notice." 
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+This copyright management information (software identifier and version number, copyright notice and license) shall be retained in all versions of the Distribution;
+Any pre-existing intellectual property disclaimers, notices, or terms and conditions. 
+This notice may not be removed or altered from any source distribution.
+Redistributions in source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ you provide recipients with a copy of this License and retain copyright, patent, trademark and disclaimer statements in the Software.
+In any copy of the Software or in any Modification you create, You must retain and reproduce, any and all copyright, patent, trademark, and attribution notices that are included in the Software in the same form as they appear in the Software. 

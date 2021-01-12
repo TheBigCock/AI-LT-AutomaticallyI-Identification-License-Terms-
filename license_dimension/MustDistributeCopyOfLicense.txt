@@ -1,0 +1,21 @@
+Redistributions of source code, in whole or part and with or without modification (the "Code"), must prominently display this GPG-signed text in verifiable form.
+Redistributions of the Code in binary form must be accompanied by this GPG-signed text in any documentation.
+You must give any other recipients of the Work or Derivative Works a copy of this License; 
+ You must include a copy of this License with every copy of the Source Code form of the Covered Software You distribute or otherwise make available. 
+A copy of this Agreement must be included with each copy of the Program. 
+You must include a copy of, or the Uniform Resource Identifier for, this License with every copy of the Executable Files or Source Code You distribute.
+A copy of this Agreement must be included with each copy of the Program.
+The Licensee must include a copy of such notices and a copy of the Licence with every copy of the Work he/she distributes and/or communicates.
+You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed as a whole at no charge to all third parties under the terms of this License.
+Give all recipients a copy of this License along with the Program.
+Distribute a copy of this License along with the Library.
+Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and its use are covered by this License.
+Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities, conveyed under the terms of this License.
+Under the GNU GPL, with none of the additional permissions of this License applicable to that copy.
+ You must include a copy of this License with every copy of the Source Code You distribute. 
+ Form of the Covered Software is governed by the terms of this License, and how they can obtain a copy of this License. 
+ If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. 
+you must provide recipients the source code to that file along with a copy of this license, which license will govern that file. 
+The full text of this NOTICE in a location viewable to users of the redistributed or derivative work.
+you provide recipients with a copy of this License.
+You must include a complete copy of this Agreement with Your distribution.

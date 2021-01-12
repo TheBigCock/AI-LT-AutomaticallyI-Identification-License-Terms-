@@ -1,0 +1,25 @@
+Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes.
+You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 4.
+You may convey a covered work in object code form under the terms of sections 4 and 5, provided that you also convey the machine-readable Corresponding Source.
+Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either (1) a copy of the Corresponding Source for all the software in the product that is covered by this License, on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or (2) access to copy the Corresponding Source from a network server at no charge.
+Requires that the Source form of the Modified Version, and of any works derived from it.
+Make the Modified Version available to the Copyright Holder of the Standard Version, under the Original License, so that the Copyright Holder may include your modifications in the Standard Version.
+Any Covered Software that You distribute or otherwise make available in Executable form must also be made available in Source Code form and that Source Code form must be distributed only under the terms of this License. 
+In the event that only the Object Code of the Software is redistributed, the Licensee allows future Licensees unhindered access to the full Source Code of the Software by indicating how to access it.
+States that source code for the Program is available from such Contributor, and informs licensees how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.
+ You may distribute the Executable Files and Source Code only under the terms of this License.
+The Program must also be made available as Source Code. 
+When distributing and/or communicating copies of the Work, the Licensee will provide a machine-readable copy of the Source Code.
+The source code for a work means the preferred form of the work for making modifications to it. 
+States that source code for the Program is available from such Contributor.
+Accompany the work with the complete corresponding machine-readable source code for the Library including whatever changes were used in the work.
+If distribution of the work is made by offering access to copy from a designated place, offer equivalent access to copy the above specified materials from the same place.
+Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a modified version of the Linked Version to produce a modified Combined Work.
+Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+You distribute at least one of the following with the Derived Work: a complete, unmodified copy of the Work; 
+Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available; and if made available via Electronic Distribution Mechanism, must remain available for at least twelve (12) months after the date it initially became available, or at least six (6) months after a subsequent version of that particular Modification has been made available to such recipients. You are responsible for ensuring that the Source Code version remains available even if the Electronic Distribution Mechanism is maintained by a third party.
+such Covered Software must also be made available in Source Code Form, as described in Section 3.1, and You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form by reasonable means in a timely manner, at a charge no more than the cost of distribution to the recipient; 
+you must provide recipients the source code. 
+Redistributions in any form must be accompanied by information on how to obtain complete source code for the DB software and any accompanying software that uses the DB software. 
+Modified versions are distributed with source code and documentation and with permission for others to use any code and documentation (whether in original or modified versions) as granted under this license;
+For the Software or any Modification You distribute in compiled or object code format, You must also provide recipients with access to the Software or Modification in source code format along with a complete copy of this Agreement.

@@ -1,0 +1,6 @@
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
+You may Distribute verbatim copies of the Source form of the Standard Version of this Package in any medium without restriction, either gratis or for a Distributor Fee.
+Lend and rent the Work or copies.
+You may charge a fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee.
+You may charge a fee for the physical act of transferring a copy.
+The source code must either be included in the distribution or be available for no more than the cost of distribution plus a nominal fee.

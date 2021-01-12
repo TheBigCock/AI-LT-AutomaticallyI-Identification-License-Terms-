@@ -1,0 +1,15 @@
+Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks.
+Neither the name nor any trademark of the Author may be used to endorse or promote products derived from this software without specific prior written permission.
+Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks;
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+This license does not grant you the right to use any trademark, service mark, tradename, or logo of the Copyright Holder.
+This Licence does not grant permission to use the trade names, trademarks, service marks, or names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the copyright notice.
+If You create or use a modified version of this License (which you may only do in order to apply it to code which is not already Covered Code governed by this License), You must (a) rename Your license so that the phrases "Mozilla", "MOZILLAPL", "MOZPL", "Netscape", "MPL", "NPL" or any confusingly similar phrase do not appear in your license.
+This License does not grant any rights in the trademarks, service marks, or logos of any Contributor.
+This license does not grant you rights to use any contributors' name, logo, or trademarks.
+No license is granted to the trademarks of Licensor even if such marks are included in the Original Work.
+The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the software without specific, written prior permission. 
+The name "Indiana Univeristy" and "Indiana Univeristy Extreme! Lab" shall not be used to endorse or promote products derived from this software without prior written permission from Indiana University. For written permission, please contact http://www.extreme.indiana.edu/.
+ The right to distribute this software or to use it for any purpose does not give you the right to use Servicemarks (sm) or Trademarks (tm) of Zope Corporation. Use of them is covered in a separate agreement (see http://www.zope.com/Marks).
+No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor, except as required to fulfill notice requirements in section 4.
+This license does not grant You rights to use any party's name, logo, or trademarks, except solely as necessary to comply with Section 3.2.
